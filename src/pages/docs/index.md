@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Welcome to GrowthWIP
 seo:
   title: Get Started on Your GrowthWIP Journey
   description: >-

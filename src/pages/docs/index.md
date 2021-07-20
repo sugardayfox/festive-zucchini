@@ -13,7 +13,9 @@ seo:
       value: Welcome to Libris
       keyName: property
     - name: 'og:description'
-      value: This is the documentation page
+      value: >-
+        This is your hub to think and act on your growth plans. If you're a
+        freelancer, maker or creator.
       keyName: property
     - name: 'twitter:card'
       value: summary

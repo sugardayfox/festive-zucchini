@@ -2,7 +2,9 @@
 title: Welcome to Libris
 seo:
   title: Get Started on Your GrowthWIP Journey
-  description: This is the documentation page
+  description: >-
+    This is your hub to think and act on your growth plans. If you're a
+    freelancer, maker or creator.
   extra:
     - name: 'og:type'
       value: website

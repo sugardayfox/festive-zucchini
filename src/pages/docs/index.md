@@ -1,7 +1,7 @@
 ---
 title: Welcome to Libris
 seo:
-  title: Welcome to Libris
+  title: Get Started on Your GrowthWIP Journey
   description: This is the documentation page
   extra:
     - name: 'og:type'
